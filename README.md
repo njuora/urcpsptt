@@ -14,10 +14,6 @@ This repository is maintained by Ying Liu (liuyingsme@smail.nju.edu.cn), and Qia
 
 Resources are often transferred between two activities, especially if the two activities are processed at different locations. In this work, we study the unit-capacity resource constrained project scheduling problem with transfer times, where the resources with one unit capacity are considered. The objective is to find a feasible schedule satisfying the precedence relations, the resource requirements and the resource transfer constraints such that the project makespan is minimized. The problem can be transformed into a multiple traveling salesperson problem with synchronization and precedence constraints, based on which a good lower bound is derived. By exploring neighborhoods in the solution spaces based on both scheduling and routing representations, we propose two heuristics for the problem. Computational experiments based on randomly generated test instances are conducted to evaluate the performance of the approaches. The computational results show the good quality of the lower bounds and demonstrate the effectiveness of our approaches.
 
-## Algorithm
-
-At present, the source codes are only accessible to our team members. We will make it available to public at a later stage.
-
 ## Instances
 
 Each instance is characterized by the following parameters:
